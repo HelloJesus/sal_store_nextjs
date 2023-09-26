@@ -1,0 +1,8 @@
+Products{
+    id
+    title
+    description
+    category
+    price
+    count
+}
